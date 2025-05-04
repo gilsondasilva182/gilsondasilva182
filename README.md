@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilsondasilva182/gilsondasilva182/main/assets/banner-tecnologias.png" alt="Banner com tecnologias estudadas" />
+  <img src="banner.png" alt="Banner com tecnologias estudadas" />
 </p>
-
-<h1 align="center">👋 Olá, eu sou o Gilson da Silva!</h1>
 
 <p align="center">
   Desenvolvedor em formação focado em JavaScript, React, Node.js e TypeScript.<br>
